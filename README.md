@@ -77,7 +77,7 @@ If users want to test the code, the config files need to be modified:
 
 
 ## Algorithm overview
-<img src="D:\桌面\论文图表\Aditional File 2_00.png"/> 
+！[image](https://github.com/BH-Lab/EVRD/blob/main/image.png)
 
 **Overview of bioinformatic pipeline (left column) that is composed of** 
 **heterogeneity scrutiny (upper), and finalization and assessment (lower), the right column indicates** 
